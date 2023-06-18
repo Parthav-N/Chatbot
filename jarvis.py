@@ -1,21 +1,3 @@
-# ---------- About the Program ----------
-"""
-Python Chatbot is a program that takes user input and performs the desired actions. Currently, it is able to:
-
-- Return and remember the name of a user using the global variable "name".
-- Read the introduction of a requested Wikipedia Page
-- Retrieve the weather of a location, automatically* or manually when given a location (Powered by OpenWeatherMap)
-- Play an interactive story game with the user
-
-*Please run this program on a local machine for full functionality of this feature. If you run it on a cloud-based interpreter, it will not retrieve the proper IP address and it will not return the weather for the correct city. Also, be sure to turn off your VPN if you have one on for accurate results.
-
-By: Kapilesh Pennichetty and Sanjay Balasubramanian
-
-Special thanks to Mr. Bailey Hulsey for his contributions and for sharing his knowledge of computer science to noobs like us!
-"""
-
-# ---------- Sources ----------
-
 # -- Program Sources --
 """
 Wikipedia API and Documentation: https://github.com/martin-majlis/Wikipedia-API
